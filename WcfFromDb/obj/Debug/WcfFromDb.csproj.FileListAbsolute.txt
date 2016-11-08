@@ -1,0 +1,10 @@
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\bin\Debug\WcfFromDb.dll.config
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\bin\Debug\WcfFromDb.dll
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\bin\Debug\WcfFromDb.pdb
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\bin\Debug\EntityFramework.dll
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\bin\Debug\EntityFramework.xml
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\obj\Debug\WcfFromDb.csprojResolveAssemblyReference.cache
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\obj\Debug\WcfFromDb.dll
+C:\Users\Vytautas\OneDrive\Visual Studio 2015\AssignmentWithAngular\WcfFromDb\obj\Debug\WcfFromDb.pdb
